@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aarshdeep Singh Chadha</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">It is fun to code and play with a bunch of 0's and 1's</h3>
 
 - 🌱 I’m currently learning **Javascript, Typescript, Angular**
 
-- 👨‍💻 All of my projects are available at [https://aarshdeepsinghchadha.netlify.app/](https://aarshdeepsinghchadha.netlify.app/)
+- 👨‍💻 Website at [https://aarshdeepsinghchadha.netlify.app/](https://aarshdeepsinghchadha.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@ascnyc29](https://medium.com/@ascnyc29)
+- 📝 I regularly write articles on [https://medium.com/@ascnyc29](https://medium.com/@ascnyc29) & [https://twitter.com/MidnightASC](https://twitter.com/MidnightASC)
 
 - 💬 Ask me about **C#, Javascript, Typescript, Minimal API,.Net Core Web API using Net 6, 7, 8, .Net Core MVC, .Net MAUI, SQL, PostgreSQL, Docker, Redis, Html, Css, Bootstrap, Angular,EntityFramework, Asp.Net Core Idenity,Git, Github, AWS Lambda Functions, Unit Testing using NUnit, Third Party API Configuration, JQuery, LINQ**
 
