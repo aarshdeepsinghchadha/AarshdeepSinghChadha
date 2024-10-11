@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarshdeep Singh Chadha</h1>
 <h3 align="center">It is fun to code and play with a bunch of 0's and 1's</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, Angular**
-
 - 👨‍💻 Website at [https://aarshdeepsinghchadha.netlify.app/](https://aarshdeepsinghchadha.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ascnyc29](https://medium.com/@ascnyc29) & [https://twitter.com/MidnightASC](https://twitter.com/MidnightASC)
