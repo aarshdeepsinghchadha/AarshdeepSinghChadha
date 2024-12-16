@@ -19,8 +19,8 @@
 
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=aarshdeepsinghchadha">
-    <img src="https://streak-stats.demolab.com/?user=aarshdeepsinghchadha" alt="Aarshdeep's Streak Stats" />
+  <a href="https://streak-stats.demolab.com/?user=aarshdeepsinghchadha&theme=dark-smoky">
+    <img src="https://streak-stats.demolab.com/?user=aarshdeepsinghchadha&theme=dark-smoky" alt="Aarshdeep's Streak Stats" />
   </a>
 </p>
 
