@@ -4,7 +4,7 @@
 - 🌌 Midnight Ascension (Personal Portfolio): https://midnightasc-dev.netlify.app/
 - 👨‍💻 OLD Personal Portfolio: https://aarshdeepsinghchadha.netlify.app/
 
-- 📝 I share my learning's [https://dev.to/midnightasc](https://dev.to/midnightasc) & [https://twitter.com/MidnightASC](https://twitter.com/MidnightASC)
+- 📝 I share my learning's [https://dev.to/kakarotdevv](https://dev.to/kakarotdevv) & [https://twitter.com/MidnightASC](https://x.com/kakarotdevv)
 
 - 💬 Ask me about **C#, Javascript, Typescript, Minimal API,.Net Core Web API using Net 6, 7, 8, .Net Core MVC, .Net MAUI, SQL, PostgreSQL, Docker, Redis, Html, Css, Bootstrap, Angular,EntityFramework, Asp.Net Core Idenity,Git, Github, AWS Lambda Functions, Unit Testing using NUnit, Third Party API Configuration, JQuery, LINQ**
 
@@ -12,8 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/midnightasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
-<a href="https://twitter.com/midnightasc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midnightasc" height="30" width="40" /></a>
+<a href="https://dev.to/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
+<a href="https://x.com/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midnightasc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarshdeep-chadha-42051a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarshdeep-chadha-42051a222" height="30" width="40" /></a>
 </p>
 
