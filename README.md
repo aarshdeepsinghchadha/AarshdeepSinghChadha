@@ -4,7 +4,7 @@
 - 🌌 Midnight Ascension (Personal Portfolio): https://midnightasc-dev.netlify.app/
 - 👨‍💻 OLD Personal Portfolio: https://aarshdeepsinghchadha.netlify.app/
 
-- 📝 I share my learning's <a href="https://dev.to/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
+- 📝 I share my learning's : <a href="https://dev.to/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
 <a href="https://x.com/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midnightasc" height="30" width="40" /></a>
 
 - 💬 Ask me about **C#, Javascript, Typescript, Minimal API,.Net Core Web API using Net 6, 7, 8, .Net Core MVC, .Net MAUI, SQL, PostgreSQL, Docker, Redis, Html, Css, Bootstrap, Angular,EntityFramework, Asp.Net Core Idenity,Git, Github, AWS Lambda Functions, Unit Testing using NUnit, Third Party API Configuration, JQuery, LINQ**
