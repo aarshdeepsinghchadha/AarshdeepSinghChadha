@@ -1,38 +1,74 @@
-<h1 align="center">Hi 👋, I'm Aarshdeep Singh Chadha</h1>
-<h3 align="center">It is fun to code and play with a bunch of 0's and 1's</h3>
+<h1 align="center">Aarshdeep Singh Chadha</h1>
+<p align="center"><b>Senior Full-Stack Software Engineer</b> · I build the systems behind the screen</p>
 
-- Personal Latest Portfolio using Astro : https://kakarotdevv.vercel.app/
-- 🌌 Midnight Ascension (Personal Portfolio): https://midnightasc-dev.netlify.app/
-- 👨‍💻 OLD Personal Portfolio: https://aarshdeepsinghchadha.netlify.app/
+```http
+GET /aarshdeep-singh-chadha HTTP/1.1
 
-- 📝 I share my learning's : <a href="https://dev.to/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
-<a href="https://x.com/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midnightasc" height="30" width="40" /></a>
+HTTP/1.1 200 OK
+x-role:        Senior Full-Stack Software Engineer
+x-experience:  6+ years
+x-base:        Ahmedabad, India
+x-teams:       US · Canada · South Africa · Russia · UK
+x-status:      available
+connection:    keep-alive
+```
 
-- 💬 Ask me about **C#, Javascript, Typescript, Minimal API,.Net Core Web API using Net 6, 7, 8, .Net Core MVC, .Net MAUI, SQL, PostgreSQL, Docker, Redis, Html, Css, Bootstrap, Angular,EntityFramework, Asp.Net Core Idenity,Git, Github, AWS Lambda Functions, Unit Testing using NUnit, Third Party API Configuration, JQuery, LINQ**
+I build the systems **behind the screen** — APIs, Clean Architecture, data and AWS cloud — and the interfaces in front of them.
 
-- 📫 How to reach me **ascnyc29@gmail.com**
+Currently Senior Executive Engineer at **Pacific Group of Companies**, leading a team of 6+ across AI/ML and enterprise web applications. Before that, four and a half years at **IndiaNIC** shipping Clean Architecture systems on .NET Core, Angular, AWS Lambda and Docker.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="midnightasc" height="30" width="40" /></a>
-<a href="https://x.com/kakarotdevv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="midnightasc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aarshdeep-chadha-42051a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarshdeep-chadha-42051a222" height="30" width="40" /></a>
-</p>
+**[Portfolio](https://aarshdeepchadha.vercel.app/)** · **[Résumé](https://drive.google.com/file/d/1Ha_Hq5GyWzUtbC8ColuySmdMjBnykTdv/view?usp=sharing)** · **[LinkedIn](https://www.linkedin.com/in/aarshdeep-chadha-42051a222/)** · **[ascnyc29@gmail.com](mailto:ascnyc29@gmail.com)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-</p>
+## Shipped
+
+Most of my work lives in client repositories, so here is what it did rather than where it is.
+
+- **AI Rent Reminder** — SMS rent reminders across time zones. AWS Lambda for data sync and cron-driven schedulers, SNS, Kafka, Redis, PostgreSQL, Angular 17.
+- **ITR** — income tax management for Japanese residents in the US and Japan. .NET 8, Azure Functions, Dapper, DocuSign; 99%+ availability under production pressure.
+- **HappySnappyLite** — rebuilt a legacy codebase into Onion Architecture with CQRS/MediatR; page load down ~30%.
+- **AppleCinema** — ticketing and theater ERP at 1,000+ transactions a day; fixed POS payment failures, checkout success up ~25%.
+- **Three production ML systems** — a productivity forecaster (SARIMAX + Prophet + LSTM), a natural-language-to-SQL generator (fine-tuned T5) and a multilingual RAG chatbot (LLaMA 3.3 + LlamaIndex + ChromaDB).
+- **Delivery** — CI/CD on GitLab and Docker that cut average deployment time ~40%; systems serving 50k+ requests a day.
+
+All 16 systems, each traced through the stack, are on the [portfolio](https://aarshdeepchadha.vercel.app/#work).
+
+## On my own time
+
+- **[Ryveo](https://ryveo.vercel.app/)** — a generative wallpaper studio. Pick an engine, tune six shared controls, export at your device's exact resolution. React, Tailwind, Canvas 2D.
+- **[PingRoom](https://pingroom.netlify.app/)** — a chat application on WebSockets.
+- **A portfolio rebuilt as a brick world** — my career as one connected build in React and Three.js. On the bench.
+
+## The stack, layer by layer
+
+| | Layer | Parts |
+| --- | --- | --- |
+| `00` | **Client** | Angular · React · Next.js · Astro · .NET Blazor · .NET MAUI · TypeScript · JavaScript · Tailwind CSS |
+| `01` | **Edge** | Ocelot Gateway · Cloudflare · Stripe · PayPal · DocuSign · SendGrid · Cloudinary · SOAP · SolidWorks API |
+| `02` | **Services** | C# · .NET Core · .NET MVC · CQRS / MediatR · **AWS Lambda** · Azure Functions · Node.js · Python |
+| `03` | **Messaging** | Kafka · RabbitMQ · **AWS SNS** · Azure Service Bus · WebSockets |
+| `04` | **Data** | PostgreSQL · MS SQL · MySQL · MongoDB · Redis · **AWS S3** · Elasticsearch · ChromaDB · Dapper · Firebase |
+| `05` | **Intelligence** | TensorFlow / Keras · Hugging Face T5 · LlamaIndex · SARIMAX / Prophet · Pandas · Power BI · DAX · Dynamics 365 |
+| `06` | **Platform** | **AWS** · Azure · Docker · Git · LaunchDarkly |
+
+Also in the kit: Entity Framework, ASP.NET Core Identity, Minimal APIs, LINQ, NUnit.
+
+## Writing
+
+- [From www.google.com to 172.217.5.253: The Magic of DNS](https://aarshdeepchadha.vercel.app/devlog/magic-of-dns)
+- [Kafka vs. RabbitMQ: Understanding the Differences](https://medium.com/@aarshdeepdev/kafka-vs-rabbitmq-understanding-the-differences-5b2c9827afc9)
+- [Leveraging Ocelot API Gateway in a Clean Architecture .NET Project](https://medium.com/@aarshdeepdev/leveraging-ocelot-api-gateway-for-seamless-microservices-communication-in-my-latest-net-project-1a4858844973)
+- [Elasticsearch with .NET Core Web API and Docker](https://medium.com/@aarshdeepdev/elasticsearch-with-net-core-web-api-and-docker-b9bf4237fc8f)
+
+More on [Medium](https://medium.com/@aarshdeepdev) and [Dev.to](https://dev.to/aarshdeepdev), and shorter thoughts on [X](https://x.com/aarshdeepdev).
+
+<details>
+<summary>Earlier portfolios</summary>
+
+- [Midnight Ascension](https://midnightasc-dev.netlify.app/)
+- [The first one](https://aarshdeepsinghchadha.netlify.app/) — React and Tailwind CSS
+
+</details>
+
+---
+
+<p align="center"><sub>It is fun to code and play with a bunch of 0's and 1's.</sub></p>
